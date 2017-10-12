@@ -1,0 +1,22 @@
+{
+  "name": "constructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorstevens/constructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorstevens/constructor/issues"
+  },
+  "homepage": "https://github.com/lorstevens/constructor#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
