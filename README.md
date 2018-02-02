@@ -2,7 +2,7 @@
 
 A simple hangman game using Node.js and Javascript Constructors. 
 
-#To get started:
+##To get started:##
 * Clone repo.
 * Run command in Terminal or Gitbash 'npm install'
 * Run command 'node hangman.js' to play the game. 
