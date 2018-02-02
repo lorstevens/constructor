@@ -3,9 +3,7 @@ var wordBankFile = require("./wordbank.js");
 // var hangman = require("./hangman.js");
 
 
-//PSEUDOCODE:
-// Figure out way to push letters from random word into arrayLetters. Then call arrayLetters
-// on the hangman.js file
+
 var Word = function (word) {
     this.word = word
     this.arrayLetters = [];
